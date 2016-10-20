@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss
-    version="2.0"
+    version="3.0"
     xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
     xmlns:fervor="https://github.com/pypt/fervor"
@@ -14,7 +14,7 @@
         <atom:link href="https://github.com/wangllei/mlasertest/blob/master/Appcast.xml" rel="self" type="application/rss+xml" />
 
         <item>
-            <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
+            <title>Version 3.0 (2 bugs fixed; 3 new features)</title>
             <pubDate>Mon, 09 Jan 2006 19:20:11 +0000</pubDate>
             <guid isPermaLink="true">https://github.com/wangllei/mlasertest/blob/master/RelNotes.html#v2.0</guid>
 
@@ -29,7 +29,7 @@
             <!-- Windows version. -->
             <enclosure
                 url="https://github.com/wangllei/mlasertest/blob/master/release.zip"
-                fervor:version="2.0"
+                fervor:version="3.0"
                 fervor:platform="Q_OS_WIN32"
                 length="2107026"
                 type="application/octet-stream" />
