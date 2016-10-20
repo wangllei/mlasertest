@@ -28,10 +28,10 @@
 
             <!-- Windows version. -->
             <enclosure
-                url="http://www.borunyouji.com/V-1.0.0.zip"
+                url="https://github.com/wangllei/mlasertest/blob/master/release.zip"
                 fervor:version="2.0"
                 fervor:platform="Q_OS_WIN32"
-                length="1656492"
+                length="2107026"
                 type="application/octet-stream" />
 
             <!-- Linux version. -->
